@@ -15,8 +15,13 @@ git clone https://github.com/av3000/Warbler.git
 - cors
 - jsonwebtoken
 - mongoose
+- dotenv
 
 ### Front-end
+
+### Testing
+- [httpie](https://github.com/jakubroztocil/httpie)
+- 
 
 ## Start express server
 
@@ -25,6 +30,11 @@ Run express app:
 cd Warbler/server
 npm i
 node index.js
+```
+
+for live express server updating:
+```bash
+npm install -g nodemon
 ```
 
 ## MongoDB setup for [ubuntu](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
