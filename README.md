@@ -27,6 +27,9 @@ git clone https://github.com/av3000/Warbler.git
 - redux-thunk
 - react-router-dom
 
+#### CSS
+- [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/download/)
+
 ### Testing
 - [httpie](https://github.com/jakubroztocil/httpie)
 - 
