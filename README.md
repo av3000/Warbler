@@ -18,6 +18,14 @@ git clone https://github.com/av3000/Warbler.git
 - dotenv
 
 ### Front-end
+- axios
+- jwt-decode
+- moment
+- react-moment
+- react-redux
+- redux
+- redux-thunk
+- react-router-dom
 
 ### Testing
 - [httpie](https://github.com/jakubroztocil/httpie)
