@@ -14,4 +14,5 @@ mongoose.connect(url, options)
 mongoose.Promise = Promise;
 
 module.exports.User = require("./user");
+module.exports.Message = require("./message");
 
